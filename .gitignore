@@ -1,2 +1,3 @@
 *.idea
 data/yellow_tripdata_2017-06.csv
+venv*
