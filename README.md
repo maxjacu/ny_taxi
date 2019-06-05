@@ -15,3 +15,7 @@ As of September 4, 2012, fares begin at $2.50 ($3.00 between 8:00 p.m. and 6:00 
 Imagine that you decide to drive a taxi for 10 hours each week to earn a little extra money. Explain how you would approach maximizing your income as a taxi driver.
 If you could enrich the dataset, what would you add?  Is there anything in the dataset that you don’t find especially useful?
 
+## Results
+
+The results are found in ny_taxi_Income_optimization.ipynb as well as ny_taxi_Income_optimization.html  
+Due to a charting limitation of the plotly package the notebook does not show one chart. Please use the html to see all charts.
